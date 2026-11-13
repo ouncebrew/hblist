@@ -5,7 +5,13 @@ hero:
   tagline: Cool Switch 2 homebrew.
 ---
 
-Prerequisite: kaiHEN and either SmileBASIC 4 or Sid Mier's Cilivization VII, on Switch firmware 23.0.1
+# Prerequisites: 
+ - SmileBASIC 4 *4.4.9/Demo() or Sid Mier's Civilization VII (Switch 1, 1.0.0), without Nag
+ - Firmware 23.0.1
+ - 90DNS or other blocking methods
+ - Good internet connection (Low latency WiFi or preferably Ethernet, Windows or Linux Network Bridges work well)
+ - A microSD Express card, formatted as either FAT32 or exFAT
+ - A copy of KaiHEN
 
 # Games
  - OpenRCT2 (Mouse Mode!)
