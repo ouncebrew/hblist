@@ -13,39 +13,10 @@ hero:
  - A microSD or microSD Express card, formatted as either FAT32 or exFAT (microSD Express is reccomended but microSD also works)
  - A copy of KaiHEN
 
-# Games
- - OpenRCT2 (Mouse Mode!)
- - Dusklight
- - Shipwright (Ocarina of Time)
- - 2Ship2Harkinian (Majoras Mask)
- - Sonic 3 AIR
- - Donkey Kong Country 2
- - Donkey Kong Country 3
- - ClassiCube
- - Sonic Robo Blast 2
- - Minecraft (Horizon)
-
-# Emulators
- - Nemiiruzika (Dolphin)
- - Azahar
- - CEMU
- - MGBA
-
-# Tools
- - NXGallery
- - Checkpoint
- - PKSM
- - FTPD
- - 90DNS Tester
- - Internal Speaker
-
-# Streaming
- - Moonlight
- - KaiTube (NewPipe)
-
-# Fun
- - FurMark-NX
- - Donut
-
-# Plugins
- - Background FTPD
+# List
+| Name                      | Open Source                                                 | Download | Category      | Author                       | Type        |
+|---------------------------|-------------------------------------------------------------|----------|---------------|------------------------------|-------------|
+| FTPD                      | (Yes)[https://github.com/mtheall/ftpd/]                     | Bundled  | Tools         | kurumuz, mtheall             | Application |
+| 90DNS Tester              | (Yes)[https://github.com/souldbminerr/90DNS-Tester]         | GitHub   | Tools         | Souldbminer                  | Application |
+| Donkey Kong Country 2     | (Yes)[https://github.com/souldbminerr/DKC2Recomp-NX]        | GitHub   | Games         | Souldbminer, elliottate      | Application |
+| Donkey Kong Country 3     | (Yes)[https://github.com/souldbminerr/DKC3Recomp-NX]        | GitHub   | Games         | Souldbminer, elliottate      | Application |
