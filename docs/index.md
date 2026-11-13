@@ -17,6 +17,7 @@ hero:
 | Name                       | Open Source                                                                | Download | Category      | Author                       | Type        |
 |----------------------------|----------------------------------------------------------------------------|----------|---------------|------------------------------|-------------|
 | FTPD                       | [Yes](https://github.com/mtheall/ftpd/)                                    | Bundled  | Tools         | kurumuz, mtheall             | Application |
+| OunceShel                  | [Yes](https://github.com/kurumuz/ounceshell/)                              | Bundled  | Tools         | kurumuz, TheFl0W             | Application |
 | 90DNS Tester               | [Yes](https://github.com/souldbminerr/90DNS-Tester)                        | GitHub   | Tools         | Souldbminer                  | Application |
 | Force Internal Speaker     | [Yes](https://github.com/souldbminerr/switch_internal_speakers_nro)        | GitHub   | Tools         | Souldbminer, paulocode       | Application |
 | Donkey Kong Country 2      | [Yes](https://github.com/souldbminerr/DKC2Recomp-NX)                       | GitHub   | Games         | Souldbminer, elliottate      | Application |
