@@ -10,7 +10,7 @@ hero:
  - Firmware 23.0.1
  - 90DNS or other blocking methods
  - Good internet connection (Low latency WiFi or preferably Ethernet, Windows or Linux Network Bridges work well)
- - A microSD Express card, formatted as either FAT32 or exFAT
+ - A microSD or microSD Express card, formatted as either FAT32 or exFAT (microSD Express is reccomended but microSD also works)
  - A copy of KaiHEN
 
 # Games
