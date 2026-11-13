@@ -26,5 +26,5 @@ hero:
 | Undertale Yellow           | No                                                                         | [Website](https://misshexa.net/uty-ounce/index.html)  | Games    | Team Undertale Yellow, Hexa  | Application |
 | Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub                                                | Games    | Sonic Team Junior, Hexa      | Application |
 | Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub                                                | Games    | Kart Krew, Hexa              | Application |
-| Donut                      | [Yes][https://github.com/Rix565/ouncedonut/]                               | GitHub   | Fun           | Rix565                       | Application |
-| Bad Apple!                 | [Yes][https://github.com/souldbminerr/bad-apple-switch/]                   | GitHub   | Fun           | Souldbminer                  | Application |
+| Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
+| Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
