@@ -14,9 +14,17 @@ hero:
  - A copy of KaiHEN
 
 # List
-| Name                      | Open Source                                                 | Download | Category      | Author                       | Type        |
-|---------------------------|-------------------------------------------------------------|----------|---------------|------------------------------|-------------|
-| FTPD                      | (Yes)[https://github.com/mtheall/ftpd/]                     | Bundled  | Tools         | kurumuz, mtheall             | Application |
-| 90DNS Tester              | (Yes)[https://github.com/souldbminerr/90DNS-Tester]         | GitHub   | Tools         | Souldbminer                  | Application |
-| Donkey Kong Country 2     | (Yes)[https://github.com/souldbminerr/DKC2Recomp-NX]        | GitHub   | Games         | Souldbminer, elliottate      | Application |
-| Donkey Kong Country 3     | (Yes)[https://github.com/souldbminerr/DKC3Recomp-NX]        | GitHub   | Games         | Souldbminer, elliottate      | Application |
+| Name                       | Open Source                                                                | Download | Category      | Author                       | Type        |
+|----------------------------|----------------------------------------------------------------------------|----------|---------------|------------------------------|-------------|
+| FTPD                       | [Yes](https://github.com/mtheall/ftpd/)                                    | Bundled  | Tools         | kurumuz, mtheall             | Application |
+| 90DNS Tester               | [Yes](https://github.com/souldbminerr/90DNS-Tester)                        | GitHub   | Tools         | Souldbminer                  | Application |
+| Force Internal Speaker     | [Yes](https://github.com/souldbminerr/switch_internal_speakers_nro)        | GitHub   | Tools         | Souldbminer, paulocode       | Application |
+| Donkey Kong Country 2      | [Yes](https://github.com/souldbminerr/DKC2Recomp-NX)                       | GitHub   | Games         | Souldbminer, elliottate      | Application |
+| Donkey Kong Country 3      | [Yes](https://github.com/souldbminerr/DKC3Recomp-NX)                       | GitHub   | Games         | Souldbminer, elliottate      | Application |
+| Sonic Time Twisted         | No                                                                         | [Website](https://misshexa.net/stt-ounce/index.html)  | Games    | Overbound Studio, Hexa       | Application |
+| TS!UNDERSWAP               | No                                                                         | [Website](https://misshexa.net/tsu-ounce/index.html)  | Games    | Team Switched, Hexa          | Application |
+| Undertale Yellow           | No                                                                         | [Website](https://misshexa.net/uty-ounce/index.html)  | Games    | Team Undertale Yellow, Hexa  | Application |
+| Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub                                                | Games    | Sonic Team Junior, Hexa      | Application |
+| Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub                                                | Games    | Kart Krew, Hexa              | Application |
+| Donut                      | [Yes][https://github.com/Rix565/ouncedonut/]                               | GitHub   | Fun           | Rix565                       | Application |
+| Bad Apple!                 | [Yes][https://github.com/souldbminerr/bad-apple-switch/]                   | GitHub   | Fun           | Souldbminer                  | Application |
