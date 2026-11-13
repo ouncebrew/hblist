@@ -6,7 +6,7 @@ hero:
 ---
 
 # Prerequisites: 
- - SmileBASIC 4 *4.4.9/Demo() or Sid Mier's Civilization VII (Switch 1, 1.0.0), without Nag
+ - SmileBASIC 4 (4.4.9/Demo 4.4.6) or Sid Mier's Civilization VII (Switch 1, 1.0.0), without Nag
  - Firmware 23.0.1
  - 90DNS or other blocking methods
  - Good internet connection (Low latency WiFi or preferably Ethernet, Windows or Linux Network Bridges work well)
@@ -46,3 +46,6 @@ hero:
 # Fun
  - FurMark-NX
  - Donut
+
+# Plugins
+ - Background FTPD
