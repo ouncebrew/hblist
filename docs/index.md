@@ -17,11 +17,12 @@ hero:
 | Name                       | Open Source                                                                | Download | Category      | Author                       | Type        |
 |----------------------------|----------------------------------------------------------------------------|----------|---------------|------------------------------|-------------|
 | FTPD                       | [Yes](https://github.com/mtheall/ftpd/)                                    | Bundled  | Tools         | kurumuz, mtheall             | Application |
-| OunceShel                  | [Yes](https://github.com/kurumuz/ounceshell/)                              | Bundled  | Tools         | kurumuz, TheFl0W             | Application |
+| OunceShell                 | [Yes](https://github.com/kurumuz/ounceshell/)                              | Bundled  | Tools         | kurumuz, TheFl0W             | Application |
 | 90DNS Tester               | [Yes](https://github.com/souldbminerr/90DNS-Tester)                        | GitHub   | Tools         | Souldbminer                  | Application |
 | Force Internal Speaker     | [Yes](https://github.com/souldbminerr/switch_internal_speakers_nro)        | GitHub   | Tools         | Souldbminer, paulocode       | Application |
 | Donkey Kong Country 2      | [Yes](https://github.com/souldbminerr/DKC2Recomp-NX)                       | GitHub   | Games         | Souldbminer, elliottate      | Application |
 | Donkey Kong Country 3      | [Yes](https://github.com/souldbminerr/DKC3Recomp-NX)                       | GitHub   | Games         | Souldbminer, elliottate      | Application |
+| xStarbound                 | (Yes)[https://github.com/Sergaliciousnes/xStarbound-Switch2]               | GitHub   | Games         | Sergalicious                  | Application |
 | Sonic Time Twisted         | No                                                                         | [Website](https://misshexa.net/stt-ounce/index.html)  | Games    | Overbound Studio, Hexa       | Application |
 | TS!UNDERSWAP               | No                                                                         | [Website](https://misshexa.net/tsu-ounce/index.html)  | Games    | Team Switched, Hexa          | Application |
 | Undertale Yellow           | No                                                                         | [Website](https://misshexa.net/uty-ounce/index.html)  | Games    | Team Undertale Yellow, Hexa  | Application |
