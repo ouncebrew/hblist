@@ -36,6 +36,7 @@ hero:
 | Nic Cage Eats Stuff        | [Yes](https://github.com/PennyLoafer5/nces-switch2)                        | GitHub   | Games         | PennyLoafer, Cart1416        | Games |
 | Angry Birds Reloaded       | [Yes](https://github.com/githubuser77777/abreloaded_nx2)                   | GitHub   | Games         | githubuser77777              | Application |
 | OpenRCT2                   | [Yes](https://github.com/souldbminerr/OpenRCT2-Switch)                     | GitHub   | Games         | Souldbminer and Wander_Eule  | Application |
+| Friday Night Funkin'       | [Yes](https://github.com/TheAJLive/Funkin-NX2)                             | GitHub   | Games         | TheAJLive | Application |
 | Chiaki-ng/Akira            | [Yes](https://github.com/chiaki-ng/akira-ounce)                            | GitHub   | Streaming     | xlanor, streetpea, kkwong, and others | Application |
 | Moonlight                  | [Yes](https://gitlab.com/Azkali/moonlight-nx2)                             | GitLab   | Streaming     | Azkali                      | Application |
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
