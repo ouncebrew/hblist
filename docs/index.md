@@ -39,6 +39,7 @@ hero:
 | Chiaki-ng/Akira            | [Yes](https://github.com/chiaki-ng/akira-ounce)                            | GitHub   | Streaming     | xlanor, streetpea, kkwong, and others | Application |
 | Moonlight                  | [Yes](https://gitlab.com/Azkali/moonlight-nx2)                             | GitLab   | Streaming     | Azkali                      | Application |
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
+| Cemu NX2                   | [Yes](https://github.com/TheAJLive/Cemu-NX2)                               | GitHub   | Emulation     | TheAJLive, NaGaa95, Cemu Team | Application |
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
 | KaiTube                    | [Yes](https://github.com/Sank-kab/KaiTube)                                 | GitHub   | Streaming     | Sank-kab                     | Application |
