@@ -23,6 +23,7 @@ hero:
 | Checkpoint                 | [Yes](https://github.com/wowilookgood/Checkpoint)                          | GitHub   | Tools         | wowilookgood, FlagBrew       | Application |
 | PKSM                       | [Yes](https://github.com/wowilookgood/PKSM)                                | GitHub   | Tools         | wowilookgood, FlagBrew       | Application |
 | NXGallery                  | [Yes](https://github.com/wowilookgood/NXGallery)                           | GitHub   | Tools         | wowilookgood, iUltimateLP    | Application |
+| blacklist-tool             | [Yes](https://github.com/s8n/blacklist-tool)                               | GitHub   | Tools         | ave                          | Application |
 | Donkey Kong Country 2      | [Yes](https://github.com/souldbminerr/DKC2Recomp-NX)                       | GitHub   | Games         | Souldbminer, elliottate      | Application |
 | Donkey Kong Country 3      | [Yes](https://github.com/souldbminerr/DKC3Recomp-NX)                       | GitHub   | Games         | Souldbminer, elliottate      | Application |
 | xStarbound                 | [Yes](https://github.com/Sergaliciousnes/xStarbound-Switch2)               | GitHub   | Games         | Sergalicious                 | Application |
