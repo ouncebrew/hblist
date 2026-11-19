@@ -28,8 +28,8 @@ hero:
 | xStarbound                 | [Yes](https://github.com/Sergaliciousnes/xStarbound-Switch2)               | GitHub   | Games         | Sergalicious                 | Application |
 | Super Mario 64 EX          | [Yes](https://github.com/NerdsMcGee/sm64ex-alo-s2)                         | GitHub   | Games         | NerdsMcGee                   | Application |
 | Sonic 3 AIR                | [Yes](https://github.com/NerdsMcGee/sonic3air-s2)                          | GitHub   | Games         | NerdsMcGee                   | Application |
-| Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub                                                | Games    | Sonic Team Junior, Hexa      | Application |
-| Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub                                                | Games    | Kart Krew, Hexa              | Application |
+| Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub   | Games         | Sonic Team Junior, Hexa      | Application |
+| Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub   | Games         | Kart Krew, Hexa              | Application |
 | UnleashedRecomp            | [Yes](https://github.com/Lightmaxifrvr/UnleashedRecomp-NX2)                | GitGub   | Games         | Lightmaxifrvr, hedge-dev and more | Application |
 | pokeplatinum               | [Yes](https://github.com/cybervisi0n/pokeplatinum)                         | GitHub   | Games         | cybervisi0n                  | Application |
 | Dusklight                  | [Yes](https://github.com/wowilookgood/dusklight)                           | GitHub   | Games         | wowilookgood, Twilit Realm   | Application |
@@ -42,5 +42,6 @@ hero:
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
 | KaiTube                    | [Yes](https://github.com/Sank-kab/KaiTube)                                 | GitHub   | Streaming     | Sank-kab                     | Application |
-| Super Smash Bros. Melee | [Yes](https://github.com/Prlxd/melee-switch2-port) | GitHub | Games | Prlxd | Application |
+| Super Smash Bros. Melee    | [Yes](https://github.com/Prlxd/melee-switch2-port)                         | GitHub   | Games         | Prlxd                        | Application |
+| Phantasy Star Portable 2 Infinity | [Yes](https://github.com/Prlxd/psp2i-switch2-port)            | GitHub   | Games         | Prlxd                        | Application |
 | KaiPlayer                  | [Yes](https://github.com/mizuiroame/kaiplayer)                             | GitHub   | Media         | Mizuiro                      | Application |
