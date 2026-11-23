@@ -20,6 +20,7 @@ hero:
 | 90DNS Tester               | [Yes](https://github.com/souldbminerr/90DNS-Tester)                        | GitHub   | Tools         | Souldbminer                  | Application |
 | Force Internal Speaker     | [Yes](https://github.com/souldbminerr/switch_internal_speakers_nro)        | GitHub   | Tools         | Souldbminer, paulocode       | Application |
 | FTPD Plugin                | [Yes](https://github.com/NerdsMcGee/kaihen-ftpd-plugin)                    | GitHub   | Tools         | NerdsMcGee                   | Plugin |
+| Moader                     | [Yes](https://github.com/H644b/Moader)                                     | Github   | Tools         | H644b/Coolspaperi            | App + Plugin|
 | Checkpoint                 | [Yes](https://github.com/wowilookgood/Checkpoint)                          | GitHub   | Tools         | wowilookgood, FlagBrew       | Application |
 | PKSM                       | [Yes](https://github.com/wowilookgood/PKSM)                                | GitHub   | Tools         | wowilookgood, FlagBrew       | Application |
 | NXGallery                  | [Yes](https://github.com/wowilookgood/NXGallery)                           | GitHub   | Tools         | wowilookgood, iUltimateLP    | Application |
