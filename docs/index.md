@@ -44,4 +44,5 @@ hero:
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
 | KaiTube                    | [Yes](https://github.com/Sank-kab/KaiTube)                                 | GitHub   | Streaming     | Sank-kab                     | Application |
 | Super Smash Bros. Melee | [Yes](https://github.com/Prlxd/melee-switch2-port) | GitHub | Games | Prlxd | Application |
+| KaiReader                  | [Yes](https://github.com/mizuiroame/kaireader)                             | GitHub   | Media         | Mizuiro                      | Application |
 | KaiPlayer                  | [Yes](https://github.com/mizuiroame/kaiplayer)                             | GitHub   | Media         | Mizuiro                      | Application |
